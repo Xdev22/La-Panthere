@@ -1,6 +1,6 @@
 # La-Panthere
 La panthère est site de web design...
-3ème projet de la formation OpenClassRooms. 
+4ème projet de la formation OpenClassRooms. 
 
 Les tâches à effectuer :
 
